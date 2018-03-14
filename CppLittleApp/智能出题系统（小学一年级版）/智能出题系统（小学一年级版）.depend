@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464605344 source:c:\users\administrator\desktop\智能出题系统（小学一年级版）\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1464606251 source:c:\users\administrator\desktop\小应用\智能出题系统（小学一年级版）\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

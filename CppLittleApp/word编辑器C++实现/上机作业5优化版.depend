@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1467043998 source:c:\users\administrator\desktop\上机作业5优化版\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+
+1467044367 source:c:\users\administrator\desktop\代码\小应用\上机作业5优化版\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<fstream>
+

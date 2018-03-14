@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1462347894 source:c:\users\administrator\desktop\高数交作业安排（随机分组）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1462348617 source:c:\users\administrator\desktop\小应用\高数交作业安排（随机分组）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1462348617 source:c:\users\administrator\desktop\代码\小应用\高数交作业安排（随机分组）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

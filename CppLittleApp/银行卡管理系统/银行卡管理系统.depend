@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1462546125 source:c:\users\administrator\desktop\银行卡管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462692678 source:c:\users\administrator\desktop\小应用\银行卡管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462692678 source:c:\users\administrator\desktop\代码\小应用\银行卡管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462692678 source:c:\users\administrator\desktop\小应用\银行卡\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
